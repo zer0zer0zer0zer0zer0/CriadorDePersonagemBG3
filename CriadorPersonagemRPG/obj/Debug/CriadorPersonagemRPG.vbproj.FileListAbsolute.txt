@@ -1,0 +1,14 @@
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.vbproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.Form1.resources
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.Resources.resources
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.vbproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.vbproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\bin\Debug\CriadorPersonagemRPG.exe.config
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\bin\Debug\CriadorPersonagemRPG.exe
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\bin\Debug\CriadorPersonagemRPG.pdb
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\bin\Debug\CriadorPersonagemRPG.xml
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.exe
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.xml
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorPersonagemRPG.pdb
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\bin\Debug\adodb.dll
+C:\Users\georg\OneDrive\Área de Trabalho\Criador_Personagem_RPG\CriadorPersonagemRPG\CriadorPersonagemRPG\obj\Debug\CriadorP.3A1D754F.Up2Date
